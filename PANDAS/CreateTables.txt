@@ -1,0 +1,22 @@
+**import pandas as pd
+df = pd.DataFrame([('KNN', '-', '-', '-', '-'),
+                   ('SVM', '-', '-', '-', '-'),
+                   ('gold', '-', '-', '-', '-')],
+                    columns=('Algotihme', 'Param. 1', 'Param. 2', 'Plage Param. 1', 'Plage Param. 2' ))
+
+
+
+***import pandas as pd
+df = pd.DataFrame(columns=['Algotihme', 'Param. 1', 'Param. 2', 'Plage Param. 1', 'Plage Param. 2' ])
+df['Algotihme'] = ['KNN', 'SVM', 'MLP']
+
+
+**import pandas as pd
+>>> d = {
+...     'Algothime': ['KNN', 'SVM', 'MLP'],
+...     'Param. 1': ['-', '-', '-'],
+...     'Param. 2': ['-', '-', '-'],
+...     'Plage param. 1': ['-', '-', '-'],
+...     'Plage param. 2': ['-', '-', '-']
+... }
+>>> df = pd.DataFrame(data=d)
