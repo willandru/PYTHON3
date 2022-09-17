@@ -1,0 +1,53 @@
+ LOS PROCESOS EN LA CINECIA DE DATOS
+
+1. Recoleccion donde esta
+2, limpiar 
+3. anañisis y busqueda de informacion-< e que contexto rstamos hablando -> Analisis Exploratorio de los datos.
+4. Interepretacion de los hañlñazgos
+5. Storytelling : contar la historia
+
+Varias metodologia: estandar, kdd, oset, semma, CRISP-DM
+
+KDD : Knowledge Discovery Data
+SELECTION: CONVINAR LOS DATOS Utilizamos extraccion transforamcion y carga 
+Mineria de Datos: Que patones hay en nuestros datos, s son utiles o no, son desconocidos, relaciones no antes vistas.... Evaluar con respecto a nuestro objetivo.. Este proceso biene de grandes bases de datos, no se ha utilizado ningun tipo de algoriitmo, es un proceso descriptivo
+Descubirir conocimiento a  partir de los datos de las bases de adtos
+
+
+OSEMN: obtein Scrub(limpiar), Explorar, Modelar e INterm¿ptretar. 
+
+Obtener: BASES DE DATOS
+Wege Scrapping: Ver as tendencias de las personas e twiter, el comportamiento de la gente.
+Web arañita para ahcer we b scraping
+Clean Data: panas mapreviews spark 
+Explorar los datos:
+		Buscaos identificar cuales son las acaracteristicas relacionales de las variables, ingenieria de datos
+		numpy matlab scypy ggplot
+MODELO: Algortimos de ML . karet(R) 
+INTERPRET: Hacer buenas gráficas 
+
+SEMMA by SAS: desarrllaron la mineria de datos
+aNTES NO HABUA MUESTREO NI EVALUACION
+
+Sample
+Explore
+Modify
+MOdel
+ASSES
+
+vA A TOMAR UNA MUESTRA REPRESENTATIVA D ELOS DATOS, LOS CONSULTORES DE LAS EMEPRESAS USTILZAN ESTE MODELO, NNO TRABAJAN CON TODOS LOS DATOS PARA RPDOUCCION .
+Un modelo toma la muestra de los datos represnetativos, luego viene la exploracion de los datos(analisis exploratorio, analisis entre variables, visualizar lso datos y obtener interpreteaciones, incluye preprocesamiento de  los ddatos.).
+Modify: Limpieza de datos, seleccionar variables transformaciond evariables represnetativas, utilizar PCA , transformar esas variables que s ean necesario
+MODEL: Distintas tecnicas como REgresion lin, Random Forest ,Modelado. 
+Evaluacion: Matriz de confusion
+
+CRISP-DM: Cross-Industry Process for Data Mining: Probado muchas vences con ML Y DM: robusto y flexible
+1.Entedener el negocio: plan accion objetivos: cual es el producto minumo viable,
+2. Comprension de los datos: AED se revisa que hay se meustra y se hace una evaluacion con respecto al objetivo del negocio.
+3. Preparacion de los datos: datos perdidos (outlayers, normalizar los datos 
+Normalizar El maximo va a ser 1, el mínimo va a ser 0, desviaciones estanders , normaliacion por rangos intercuartilicos, es tener un rango fijo en el que se van a mover todas las variables: Peparaciond e los datos tonma el 70 % esoo:
+MOdelado:
+
+Evaluacion delmodelo: Matrixz de COnfusion , se reevalua 
+
+DEPLOYMENR IMPLEMENTACION  agran escala: Trabajar con otras partes para crear una API para desplegar los datos dentro de una AOPO o que 

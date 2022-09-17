@@ -1,0 +1,56 @@
+TIPOS DE DATAS:
+CUALITATIVOS QUANTITATIVOS
+ESTRUCTURADOS Y NO ESTRUCTURADOS
+DEA A CUERDO A QUIEN LOS TIENE(ABIERTOS)
+
+
+CUANTITATIIVS:
+Los podemos cuantificar , van a considerarse variables numericas. Se pueden representar en diferentes tipos de gráficos.
+	- Responden a preguntas como cúatnos, cpuanto con qupe , frecuencia
+	- Facilmente suceptibles de manipulacion estadistica
+	- Continuos-Discretos
+	
+	
+	DISCRETOS: Numeros enteros que no pueden ser subdivididos en partes:
+	Ej: Numero de goles, numero de personas.
+	
+	CONTINUOS:  (Medidos en una escala)
+	Ej: Escalas de medicion
+	
+CUALITATIVOS:
+	-Hacen referencias a categorias, imagenes, palabras, simbolos. Se pueden clasificar en categorias o clases
+	-Como o por qué
+	- NOminales - Ordinales
+	
+	COlores, nacianiliades, nombres, especies
+	
+	CUALITATIVOS NOMINALES: "nomen": No hay un ordenamiento intrínseco
+	
+	Genero, colores, Estados Civiles, Etnias
+	
+	ORDINALES: Son categorias con posicion en una escala
+	
+	Primero,segundo. Notas academicas. Muy satisfactorio . Alto bajo medio
+	
+	
+	
+			MÉTODOS ESTADÍSTICOS
+			
+- Dependiendo de los tipos de datos
+- 
+
+Nominales: por Frecuencias (cada cuanto ocurre el evento)(podemos sacar proporciones y expresarlo en porcentajes)
+Ordinales: Utilizar los mismos de NOminales. Ademas la mediana , la moda. Y el rago que indica la variabilidad
+
+Continuos: Histogramas, distruibucion de los datos, los Boxplot. 
+
+
+
+BIG DATA: COMO VIENNE EL FORMATO: Datos no estructurados, semiestructurados y no estructurados.
+
+Datos estructurados: Vienen con una estructura por detras, vienen en formatos de tablas. 
+No estructurados: Audio/Imagenes/ArchivosDeTextoPlano
+Semiestructurados: Dentro de los datos estructurados podemos tener columnas con datos no estructurados.
+
+DAtawaerhouse/DataLeak
+	
